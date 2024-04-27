@@ -45,3 +45,5 @@ except Exception as e:
 ![output](Capture.PNG)
 
 <H3> Result:</H3>
+Thus the python program for Speech Recognition is implemented successfully.
+
